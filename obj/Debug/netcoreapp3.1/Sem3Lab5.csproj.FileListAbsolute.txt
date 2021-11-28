@@ -1,0 +1,13 @@
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\bin\Debug\netcoreapp3.1\Sem3Lab5.exe
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\bin\Debug\netcoreapp3.1\Sem3Lab5.deps.json
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\bin\Debug\netcoreapp3.1\Sem3Lab5.runtimeconfig.json
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\bin\Debug\netcoreapp3.1\Sem3Lab5.runtimeconfig.dev.json
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\bin\Debug\netcoreapp3.1\Sem3Lab5.dll
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\bin\Debug\netcoreapp3.1\Sem3Lab5.pdb
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.csprojAssemblyReference.cache
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.AssemblyInfoInputs.cache
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.AssemblyInfo.cs
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.csproj.CoreCompileInputs.cache
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.dll
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.pdb
+V:\МИЭТ\ОП\ProjectCsharp\Sem3Lab5\obj\Debug\netcoreapp3.1\Sem3Lab5.genruntimeconfig.cache
